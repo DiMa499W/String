@@ -1,7 +1,5 @@
 [
-  { "username": "alpha",   "password": "Alpha$tr0ngP@ss!", "role": "admin", "active": true },
-  { "username": "beta",    "password": "Beta_Secure#2026", "role": "mod",   "active": true },
-  { "username": "gamma",   "password": "Gamma%Pass^42",    "role": "user",  "active": true },
-  { "username": "delta",   "password": "Delta123!@#",      "role": "user",  "active": true },
-  { "username": "epsilon", "password": "Epsilon!Gold#77",  "role": "user",  "active": true }
+  "Key_Alpha_123",
+  "Key_Beta_456",
+  "Key_Gamma_789"
 ]
