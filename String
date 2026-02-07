@@ -1,23 +1,26 @@
-{
-  "masterKey": "RElNQV9IQVhfTUFTVEVSX0tFWV8yMDI2",
-  "users": [
-    {
-      "username": "dimahax",
-      "role": "owner",
-      "password": "fsdfdsfdsferwq$@#!",
-      "active": true
-    },
-    {
-      "username": "tester13",
-      "role": "tester",
-      "password": "T3st#13!qW9@xZ$%",
-      "active": true
-    },
-    {
-      "username": "tester28",
-      "role": "tester",
-      "password": "Xr9$@!mQpL2#7sF%",
-      "active": true
-    }
-  ]
-}
+[
+  {
+    "username": "alpha",
+    "password": "Alpha$tr0ngP@ss!",
+    "role": "admin",
+    "active": true
+  },
+  {
+    "username": "beta",
+    "password": "Beta_Secure#2026",
+    "role": "mod",
+    "active": true
+  },
+  {
+    "username": "gamma",
+    "password": "Gamma%Pass^42",
+    "role": "user",
+    "active": true
+  },
+  {
+    "username": "delta",
+    "password": "Delta123!@#",
+    "role": "user",
+    "active": true
+  }
+]
